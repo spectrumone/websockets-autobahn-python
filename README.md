@@ -1,7 +1,7 @@
 # websockets-autobahn-python
 Creating a simple chat using Python and AutoBahn Websockets with the Twisted Framework
 
-Reference Guide: http://autobahn.ws/python/websocket/programming.html
+<strong>Reference Guide</strong>: http://autobahn.ws/python/websocket/programming.html
 
 ###To run:
 * ```pip install -r requirements.txt```
